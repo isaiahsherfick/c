@@ -6,6 +6,7 @@
 	{
 		int whatToDo = 0;
 
+		//why not a do while loop
 		do
 		{
 			printf("\n");

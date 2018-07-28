@@ -33,5 +33,15 @@ int main()
 		printf("\n\nOnly 1 evaluates to \"true\"\n\n");
 	}
 
+	if (0)
+	{
+		printf("\n\n0 evaluates to \"true\"???\n\n");
+	}
+
+	else
+	{
+		printf("\n\n0 indeed evaluates to \"false\"\n\n");
+	}
+
 	return 0;
 }
